@@ -18,19 +18,19 @@ Aplicada para entender:
 - Tomada de decisão
 - Motivação
   
-Psicologia Positiva
+🧠 Psicologia Positiva
 Usada para:
 - Engajamento saudável
 - Experiência do usuário mais humana
 - Redução de fricção emocional
   
-Neuromarketing
+🧠 Neuromarketing
 Aplicado para:
 - Heurísticas e vieses cognitivos
 - Gatilhos mentais éticos
 - Percepção de valor
   
-IA Aplicada
+🧠 IA Aplicada
 Utilizada para:
 - Recomendação personalizada
 - Segmentação comportamental
