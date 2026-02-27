@@ -74,7 +74,7 @@ Utilizada para:
 - Protótipo
 - Estudo de caso
 - Apresentação final
-- 
+
 
 📚 Referências de Estudo
 Product Management
