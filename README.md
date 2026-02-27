@@ -10,35 +10,6 @@ Criar um produto digital capaz de recomendar conteúdos, produtos ou experiênci
 - Psicologia positiva para promover engajamento saudável
 
 
-🧩 Estrutura do Repositório
-📁 /docs
-   ├── personas.md
-   ├── jornada_do_usuario.md
-   ├── problema_validado.md
-   ├── roadmap_do_produto.md
-   ├── metricas.md
-   └── estudo_de_caso.md
-
-📁 /design
-   ├── prototipo_figma_link.txt
-   └── fluxos_de_tela.png
-
-📁 /pesquisas
-   ├── entrevistas.md
-   ├── insights_neurociencia.md
-   ├── insights_psicologia_positiva.md
-   └── insights_neuromarketing.md
-
-📁 /github
-   ├── backlog_github_projects.png
-   └── user_stories.md
-
-📁 /portfolio
-   └── apresentacao_final.pdf
-
-README.md
-
-
 🧠 Fundamentação Teórica
 Neurociências
 Aplicada para entender:
@@ -46,16 +17,19 @@ Aplicada para entender:
 - Memória
 - Tomada de decisão
 - Motivação
+  
 Psicologia Positiva
 Usada para:
 - Engajamento saudável
 - Experiência do usuário mais humana
 - Redução de fricção emocional
+  
 Neuromarketing
 Aplicado para:
 - Heurísticas e vieses cognitivos
 - Gatilhos mentais éticos
 - Percepção de valor
+  
 IA Aplicada
 Utilizada para:
 - Recomendação personalizada
@@ -78,11 +52,13 @@ Utilizada para:
 - Mapeamento de dores
 - Definição do problema
 - Personas e jornadas
+  
 2. Definição
 - User stories
 - Critérios de aceitação
 - Métricas (AARRR, North Star)
 - Priorização (RICE, MoSCoW)
+
 3. Ideação
 - Protótipo no Figma
 - Fluxos de tela
@@ -92,33 +68,30 @@ Utilizada para:
 - Documentação completa
 - Insights de neurociência e psicologia positiva
 - Decisões de produto justificadas
+
 5. Publicação
 - README
 - Protótipo
 - Estudo de caso
 - Apresentação final
-
-🚀 Protótipo
-🔗 Adicione aqui o link do protótipo no Figma quando estiver pronto.
-
-📊 Estudo de Caso
-O estudo de caso completo está disponível em:
-📄 /docs/estudo_de_caso.md
-📄 /portfolio/apresentacao_final.pdf
+- 
 
 📚 Referências de Estudo
 Product Management
 - DIO – Formação Product Manager
 - PM3 – Conteúdos gratuitos
 - Product School – Webinars
+
 Neurociências
 - Harvard – Fundamentals of Neuroscience
 - MIT – Introduction to Neuroscience
 - UFABC – Neurociência e Comportamento
+
 Psicologia Positiva
 - Yale – The Science of Well-Being
 - University of Pennsylvania – Positive Psychology
 - PUC-RS – Psicologia e Bem-Estar
+
 Tecnologia e UX
 - Google Ateliê Digital
 - HubSpot Academy
